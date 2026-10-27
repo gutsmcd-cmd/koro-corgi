@@ -1,4 +1,4 @@
-const C = 'koro-corgi-v1';
+const C = 'koro-corgi-v2';
 const CORE = ['./', './index.html', './icon.svg', './manifest.webmanifest'];
 self.addEventListener('install', (e) => {
   self.skipWaiting();
